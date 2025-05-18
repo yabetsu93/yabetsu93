@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yabetsu93
-- 👀 I’m interested in learning new stuff esp cloud, ai
-- 🌱 I’m currently learning monitoring&observability, cloud services
-- 💞️ I’m looking to collaborate on cloud services
-- 📫 How to reach me 
+- 👀 I’m interested in learning new stuff esp cloud,monitoring,observability, k8s, and ai
+- 🌱 I’m currently learning AI and Machine Learning
+- 💞️ I’m looking to collaborate on AI or ML related projects
+- 📫 How to reach me (jabpau93@gmail.com)
 
 <!---
 yabetsu93/yabetsu93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
